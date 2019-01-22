@@ -4,7 +4,7 @@
     </div>
 
     <div class="px-6 py-4">
-        <form class="w-full" data-netlify="true" name="Contact Kaili">
+        <form class="w-full" method="POST" data-netlify="true" name="Contact Kaili">
             <div class="flex flex-wrap -mx-3 mb-6">
                 <div class="w-full px-3 mb-6 md:mb-0">
                 <label class="block uppercase tracking-wide text-neutral-dark text-xs font-bold mb-2" for="grid-first-name">
@@ -47,7 +47,7 @@
             </div>
 
             <div class="flex flex-wrap mb-2 justify-center">
-                <button class="bg-yellow hover:bg-yellow-dark text-neutral-darker font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline uppercase" type="button">
+                <button class="bg-yellow hover:bg-yellow-dark text-neutral-darker font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline uppercase" type="submit">
                     Submit
                 </button>
             </div>
