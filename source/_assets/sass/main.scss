@@ -1,0 +1,11 @@
+@tailwind preflight;
+
+@tailwind components;
+
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+h1 {
+    font-size: 4.5rem;
+}
+
+@tailwind utilities;
