@@ -10,7 +10,7 @@
                 <label class="block uppercase tracking-wide text-neutral-dark text-xs font-bold mb-2" for="grid-first-name">
                     Name
                 </label>
-                <input class="appearance-none block w-full bg-neutral-lightest text-neutral-darker border border-grey-lighter rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text">
+                <input name="name" class="appearance-none block w-full bg-neutral-lightest text-neutral-darker border border-grey-lighter rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text">
                 </div>
             </div>
             <div class="flex flex-wrap -mx-3 mb-6">
@@ -18,7 +18,7 @@
                 <label class="block uppercase tracking-wide text-neutral-dark text-xs font-bold mb-2" for="grid-email">
                     Email
                 </label>
-                <input class="appearance-none block w-full bg-neutral-lightest text-neutral-darker border border-grey-lighter rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-grey" id="grid-email" placeholder="">
+                <input name="email" class="appearance-none block w-full bg-neutral-lightest text-neutral-darker border border-grey-lighter rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-grey" id="grid-email" placeholder="">
                 </div>
             </div>
             <div class="flex flex-wrap -mx-3 mb-2">
@@ -27,7 +27,7 @@
                     Contact Reason
                 </label>
                 <div class="relative">
-                    <select class="block appearance-none w-full bg-neutral-lightest border border-grey-lighter text-neutral-darker py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-grey" id="grid-state">
+                    <select name="contact-reason" class="block appearance-none w-full bg-neutral-lightest border border-grey-lighter text-neutral-darker py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-grey" id="grid-state">
                     <option>Donation</option>
                     <option>Commission</option>
                     </select>
@@ -42,7 +42,7 @@
                 <label class="block uppercase tracking-wide text-neutral-dark text-xs font-bold mb-2" for="grid-state">
                     Comments
                 </label>
-                <textarea class="w-full shadow-inner p-4 border-0 text-neutral-darker" rows="8"></textarea>
+                <textarea name="comments" class="w-full shadow-inner p-4 border-0 text-neutral-darker" rows="8"></textarea>
                 </div>
             </div>
 
