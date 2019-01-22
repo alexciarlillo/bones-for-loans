@@ -47,6 +47,7 @@
             </div>
 
             <div class="flex flex-wrap mb-2 justify-center">
+                <div data-netlify-recaptcha="true"></div>
                 <button class="bg-yellow hover:bg-yellow-dark text-neutral-darker font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline uppercase" type="submit">
                     Submit
                 </button>
