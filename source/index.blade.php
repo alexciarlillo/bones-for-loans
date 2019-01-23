@@ -23,6 +23,15 @@
 
     </div>
 
-    @include('_partials.form')
+    <div class="flex flex-wrap justify-center lg:flex-no-wrap lg:justify-between">
+        <div class="mx-2 flex-grow">
+            @include('_partials.form')
+        </div>
+
+        <div class="mx-2 flex-grow">
+            @include('_partials.pobox')
+        </div>
+    </div>
+
 </div>
 @endsection
