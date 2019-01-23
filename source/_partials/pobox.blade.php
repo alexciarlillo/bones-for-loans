@@ -1,4 +1,4 @@
-<div class="max-w-xs md:max-w-md rounded overflow-hidden shadow-lg bg-neutral-lighter mt-6 mx-auto border-neutral-light border-2">
+<div class="max-w-sm md:max-w-md rounded overflow-hidden shadow-lg bg-neutral-lighter mt-6 mx-auto border-neutral-light border-2">
     <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Throw Me A Bone!</div>
 
