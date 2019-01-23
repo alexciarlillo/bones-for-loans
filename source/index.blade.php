@@ -7,7 +7,6 @@
 
 
     <div class="about text-neutral-darkest">
-
         <div class="flex flex-wrap justify-center lg:flex-no-wrap lg:justify-between">
 
             <div class="mx-2 mb-4">
@@ -20,8 +19,9 @@
                 @include('_partials.more')
             </div>
         </div>
-
     </div>
+
+    @include('_partials.disclaimer')
 
     <div class="flex flex-wrap justify-center lg:flex-no-wrap lg:justify-between">
         <div class="mx-2 flex-grow">
