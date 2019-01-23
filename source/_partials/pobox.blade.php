@@ -8,7 +8,7 @@
             <div class="text-xl font-bold text-neutral-dark">Brooklyn OH, 44144</div>
         </div>
 
-        <div class="px-6 py44">
+        <div class="px-6 py-4 max-w-sm">
             <span class="text-lg text-neutral-dark italic">Thinking of donating? Please leave a comment letting me know what you are sending so I can give you a proper thanks!</span>
         </div>
     </div>
