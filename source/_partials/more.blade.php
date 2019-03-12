@@ -1,9 +1,20 @@
 <div class="about text-neutral-darkest">
     <p class="text-md">
-        If you have read this far, perhaps you are interested in commissioning a piece from me. Or, perhaps you are just a cool creepy stranger with an excess of bones on your hands. No judgments here! I am hoping to one day open up an online shop where I can sell my carvings. Before that can happen, I need to acquire some bones to carve! That’s where this site comes in. If you like my work and have an extra bone or two lying around that you would like to donate, I created this site to allow you to do so. Please click the “donate” button in the drop down menu below. I opened a PO box to allow you, kind stranger, to donate your old bones to a good cause. Feel free to enter some design ideas or other thoughts in the “comments” section!
+        I am hoping to one day open an online shop where I can sell my carvings. Before that can happen, I need to acquire some bones to carve. If you like my work and have an extra bone lying around that you are willing to donate, I created this site to allow you to do so. Please click the “donate” button in the drop down menu below. I opened a PO box to allow you, kind stranger, to donate your old bones to a good cause. Feel free to enter some design ideas or other thoughts in the “comments” section.
     </p>
     <br/>
     <p class="text-md">
-        I am also accepting commissions! However, while I work on getting this thing off the ground, I will only be doing commissions for those who already have a bone they would like me to carve. If you are interested in doing this, please click the “commission” button in the drop down menu below. You can then send your skull to my PO box. When I receive the piece, I will contact you to discuss general design preferences you may have, and we will settle on a price before I begin carving. Carved skulls generally sell for between $100 and $350 depending on the size and intricacy of the design. Given that I am still fairly new at this, I will start my commissions at the lower end of that spectrum. All payments will be made through PayPal. Thank you for your interest in my work!
+        I am also accepting commissions! However, while I work on getting this thing off the ground, I will only be doing commissions for those who already have a bone they would like me to carve. If you are interested in doing this, please click the “commission” button in the drop down menu below. If you don’t already have a bone, but would like to purchase one for me to carve, there are many sites online where you can buy them and have them sent directly to me. Please contact me using the box below for more information on prices, designs, and bone acquisition.
     </p>
+
+    <div class="mt-12 mb-4 mx-4">
+        <a href="https://www.instagram.com/kailiboarman/" target="_blank" class="no-underline flex items-center text-2xl">
+
+            <i class="fab fa-instagram fa-3x text-neutral-dark"></i>
+
+            <span class="font-headline text-neutral-darker ml-6 max-w-sm">
+                Follow my work and get updates on my shop on Instagram!
+            </span>
+        </a>
+    </div>
 </div>
