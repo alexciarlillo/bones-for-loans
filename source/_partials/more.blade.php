@@ -7,14 +7,17 @@
         I am also accepting commissions! However, while I work on getting this thing off the ground, I will only be doing commissions for those who already have a bone they would like me to carve. If you are interested in doing this, please click the “commission” button in the drop down menu below. If you don’t already have a bone, but would like to purchase one for me to carve, there are many sites online where you can buy them and have them sent directly to me. Please contact me using the box below for more information on prices, designs, and bone acquisition.
     </p>
 
-    <div class="mt-12 mb-4 mx-4">
+    <div class="mt-4 mb-4 mx-4">
         <a href="https://www.instagram.com/kailiboarman/" target="_blank" class="no-underline flex items-center text-2xl">
 
             <i class="fab fa-instagram fa-3x text-neutral-dark"></i>
 
-            <span class="font-headline text-neutral-darker ml-6 max-w-sm">
-                Follow my work and get updates on my shop on Instagram!
+            <span class="font-headline text-neutral-dark ml-6 max-w-sm">
+                Follow my work and get updates on my shop on Instagram <span class="text-orange">@kailiboarman</span>
             </span>
         </a>
     </div>
+
+
+    @include('_partials.gallery')
 </div>
